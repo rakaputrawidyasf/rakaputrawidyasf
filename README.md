@@ -1,6 +1,6 @@
 ## Hey 👋, This is Rakaputra Widya S Farhat
-[![Gmail Badge](https://img.shields.io/badge/-rakaputrawidyasfarhat@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rakaputrawidyasfarhat@gmail.com)](mailto:rakaputrawidyasfarhat@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rakaputrawidya-s-farhat-709356201-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakaputrawidya-s-farhat-709356201/)](https://www.linkedin.com/in/rakaputrawidya-s-farhat-709356201/) <p align='left'>Final-Year Student at Dian Nuswantoro University, Semarang, Indonesia. Graduated from Google Bangkit 2021 as Machine Learning Path Student. Currently focus on ML and Computer Vision projects</p>
+[![Gmail Badge](https://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:rakaputrawidyasfarhat@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakaputrawidya-s-farhat-709356201/) <p align='justify'>Final-Year Student at Dian Nuswantoro University, Semarang, Indonesia. Graduated from Google Bangkit 2021 as Machine Learning Path Student. Currently focus on ML and Computer Vision projects</p>
 
 <!--
 **rakaputrawidyasf/rakaputrawidyasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
