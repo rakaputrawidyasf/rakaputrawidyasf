@@ -1,4 +1,4 @@
-## Hey 👋, This is Rakaputra Widya S Farhat
+## Rakaputra Widya S Farhat
 
 <p align='justify'>Final-Year Student at Dian Nuswantoro University, Semarang, Indonesia. Graduated from Google Bangkit 2021 as Machine Learning Path Student. Currently focus on ML and Computer Vision projects</p>
 
